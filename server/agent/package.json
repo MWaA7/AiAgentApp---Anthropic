@@ -1,0 +1,22 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.17",
+    "@langchain/core": "^0.3.44",
+    "@langchain/langgraph": "^0.2.63",
+    "@types/express": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "zod": "^3.24.2"
+  }
+}
