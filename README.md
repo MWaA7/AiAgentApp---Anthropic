@@ -19,3 +19,5 @@ Anthropic for LLM models
 Javascript, NodeJS, Express for the backend and api
 
 React for the client side app
+
+Confluence link: https://mwaqascool.atlassian.net/wiki/spaces/AAA/overview?homepageId=98632
